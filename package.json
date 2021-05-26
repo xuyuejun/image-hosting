@@ -1,0 +1,15 @@
+{
+  "name": "image-hosting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xuyuejun/image-hosting.git",
+  "author": "xuyuejun <lwxuyuejun@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@matrixage/picpic": "^1.4.9"
+  },
+  "scripts": {
+    "init": "picpic init",
+    "build": "picpic build"
+  }
+}

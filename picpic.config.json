@@ -1,0 +1,14 @@
+{
+      "types": [
+            "svg",
+            "png",
+            "jpg",
+            "jpeg",
+            "gif",
+            "webp"
+      ],
+      "compress": {
+            "quality": 0.8
+      },
+      "depth": 12
+}
